@@ -261,6 +261,12 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
   * Web Scraper http://webscraper.io/
   * Python Scraper https://scrapy.org/
 
+## API Examples
+  * https://swapi.co/
+  * https://pokeapi.co/
+  * https://jsonplaceholder.typicode.com/
+
 ## Presentaciones
- * Prezi: https://prezi.com
- * RealTimeBoard: https://realtimeboard.com
+  * Prezi: https://prezi.com
+  * RealTimeBoard: https://realtimeboard.com
+  * RevealJS: https://revealjs.com
