@@ -270,3 +270,4 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
   * Prezi: https://prezi.com
   * RealTimeBoard: https://realtimeboard.com
   * RevealJS: https://revealjs.com
+  * REQ | RES: https://reqres.in/
