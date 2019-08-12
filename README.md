@@ -262,6 +262,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
   * Python Scraper https://scrapy.org/
 
 ## API Examples
+  * Lista de Apis Publicas http://www.enrique7mc.com/2016/05/lista-apis-publicas/
   * https://swapi.co/
   * https://pokeapi.co/
   * https://jsonplaceholder.typicode.com/
