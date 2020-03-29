@@ -8,6 +8,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Flight Radar https://www.flightradar24.com/-29.89,-62.41/7
  * Que comemos hoy https://www.yummly.com/
  * Aprender a tocar el piano https://www.synthesiagame.com/
+ * Gitmoji, agregar emojis a los commits git, util para slack también https://gitmoji.carloscuesta.me/
 
 ## Clima y Naturaleza
  * Windy: Mapa de vientos https://www.windy.com/
@@ -33,6 +34,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Ulele https://es.ulule.com
  * Goteo http://www.goteo.org
  * Code Sponsor https://codesponsor.io
+ * Ko-fi: https://ko-fi.com/
  
 ## Generadores
  * CNPJ, CPF, TELEFONOS, TEXTO http://www.theonegenerator.com/es
@@ -76,6 +78,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Lista licencias Open Source https://spdx.org/licenses/
  * Lista licencias Open Source https://opensource.org/licenses
  * Lista licencias Open Source https://getcomposer.org/doc/04-schema.md#license
+ * Fast (test speed from netflix): https://fast.com/es
  
 ## Conversores de unidades
  * Length Converter https://codebeautify.org/length-converter
@@ -260,15 +263,16 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  ## Scraping
   * Web Scraper http://webscraper.io/
   * Python Scraper https://scrapy.org/
-
-## API Examples
-  * Lista de Apis Publicas http://www.enrique7mc.com/2016/05/lista-apis-publicas/
-  * https://swapi.co/
-  * https://pokeapi.co/
-  * https://jsonplaceholder.typicode.com/
+  
+## Social Media
+ * Socialblade - https://socialblade.com/youtube
 
 ## Presentaciones
-  * Prezi: https://prezi.com
-  * RealTimeBoard: https://realtimeboard.com
-  * RevealJS: https://revealjs.com
-  * REQ | RES: https://reqres.in/
+ * Prezi: https://prezi.com
+ * RealTimeBoard: https://realtimeboard.com
+ 
+## Tiempo
+ * CountDown Time: https://www.online-stopwatch.com/
+
+## Emojis
+ * Emojipedia - https://emojipedia.org/
